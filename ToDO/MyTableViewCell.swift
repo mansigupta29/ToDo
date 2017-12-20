@@ -2,8 +2,8 @@
 //  MyTableViewCell.swift
 //  ToDO
 //
-//  Created by Student on 2017-12-19.
-//  Copyright © 2017 Centennial. All rights reserved.
+//  Created by Abhinav Sharma (300975677) and Mansi Gupta (300969816)
+//  Version 1.0
 //
 
 import UIKit
